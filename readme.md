@@ -1,4 +1,4 @@
 # To Use
 
-npm install
-node index
+- npm install
+- node index
